@@ -4,7 +4,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AshishDixit19?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish99/)](https://www.linkedin.com/in/ashish99/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-ashish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish99/)](https://www.linkedin.com/in/ashish99/)
 ![GitHub followers](https://img.shields.io/github/followers/imashishdixit?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=ashishdixit.imashishdixit)
 
