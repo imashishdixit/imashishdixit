@@ -14,7 +14,7 @@
 ```javascript
 const ashish = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "C++", "C#", ".NET"],
+    code: ["Javascript", "NodeJS", "ReactJS", "Java", "C++"],
     askMeAbout: ["web dev", "tech", "app dev", "tv-series"],
     technologies: {
         mobileApp: ["Android App"],
@@ -23,15 +23,13 @@ const ashish = {
             css: ["materialize", "bootstrap"]
         },
         backEnd: {
-            js: ["C#", "node", "Java"],
-            python: ["tkinter"]
+            js: [ "node", "Java"],
         },
-        devOps: ["Azure", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Kotlin", "Microsoft Dynamics 365", "C/AL"]
+        devOps: ["Aws"],
+        databases: ["mongo", "MySql", "sqlite"]
     },
     architecture: ["MVC Architecture", "Single page applications"],
-    currentProject: "I am developing Extension for Microsoft Dynamics 365 using C/AL",
+    currentProject: "I am working on React Project",
     funFact: "If your code works, never fu*king touch it!"
 };
 ```
